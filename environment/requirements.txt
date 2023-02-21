@@ -1,0 +1,14 @@
+wheel
+watermark 
+# lightgbm
+# darts 
+plotly 
+cufflinks 
+numpy 
+pandas 
+optuna
+torch 
+pandas_ta 
+#gluonts
+pandas_datareader
+polars
